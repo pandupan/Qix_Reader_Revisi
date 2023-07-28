@@ -1,0 +1,1 @@
+# Qix_Reader_Revisi
