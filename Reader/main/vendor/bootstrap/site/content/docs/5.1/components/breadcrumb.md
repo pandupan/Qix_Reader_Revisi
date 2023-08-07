@@ -28,7 +28,7 @@ Use an ordered or unordered list with linked list items to create a minimally st
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="#">Home</a></li>
     <li class="breadcrumb-item"><a href="#">Library</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Data</li>
+    <li class="breadcrumb-item active" aria-current="page">Book Reviews</li>
   </ol>
 </nav>
 {{< /example >}}
