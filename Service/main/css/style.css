@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /*
-Project/Template Name:  Freeio - Freelance Marketplace HTML Template
+Project/Template Name:  Qix - Book Services
 Template Url: 
 Author: CreativeLayers
 Author Url: https://themeforest.net/user/creativelayers/portfolio
 Version: 1.0.0
-Description: Freeio - Freelance Marketplace HTML Template
+Description: Qix - Book Services
 Tag:  bidding, fiverr, freelance marketplace, freelancers, freelancing, gigs, hiring, job board, job portal, job posting, jobs marketplace, peopleperhour, proposals, sell services, upwork
 */
 /* == Table Of Content  == */
@@ -699,7 +699,9 @@ h2 {
   -o-transition: all 0.3s ease 0s ease;
   transition: all 0.3s ease 0s ease;
 }
-
+.user_setting .dropdown-menu.mobile .dropdown-item {
+  padding: 0;
+}
 .dashboard_dd_menu_list .dropdown-toggle:after {
   display: none;
 }
