@@ -39,7 +39,7 @@ $flaticon-map: (
     "money-transfer": "\f110",
     "transfer": "\f111",
     "info": "\f112",
-    "bookstore": "\f113",
+    "Bookmakersre": "\f113",
     "exclusive": "\f114",
     "compass-circular-tool": "\f115",
     "check-mark": "\f116",
@@ -114,8 +114,8 @@ $flaticon-map: (
 .flaticon-info:before {
     content: map-get($flaticon-map, "info");
 }
-.flaticon-bookstore:before {
-    content: map-get($flaticon-map, "bookstore");
+.flaticon-Bookmakersre:before {
+    content: map-get($flaticon-map, "Bookmakersre");
 }
 .flaticon-exclusive:before {
     content: map-get($flaticon-map, "exclusive");
